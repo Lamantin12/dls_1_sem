@@ -1,1 +1,0 @@
-# Chapter 6 Linear models homework

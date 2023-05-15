@@ -6,7 +6,13 @@
 *.csv
 notMNIST_small/
 notMNIST_small.tar.gz
+MNIST/
+*tar*
+*gz*
+*zip*
 untar_notmnist.log
 __pycache__
 data/
+to_do/
 *catboost*
+README_template.md
