@@ -1,0 +1,11 @@
+click==7.1.2
+matplotlib==3.6.3
+numpy==1.23.5
+pandas==1.5.2
+Pillow==9.4.0
+plotly==5.12.0
+preshed==3.0.8
+streamlit==1.24.1
+torch==2.0.0
+torchvision==0.15.1
+io

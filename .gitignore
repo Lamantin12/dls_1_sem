@@ -4,6 +4,7 @@
 *.bin
 *.model
 *.csv
+*.pdf
 notMNIST_small/
 notMNIST_small.tar.gz
 MNIST/
